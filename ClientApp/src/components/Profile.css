@@ -1,0 +1,23 @@
+﻿.slide {
+    /*background-color: lightgray;*/
+    height: 60vh;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.intro{
+    width: 70%;
+    float:left;
+    display:block;
+    padding:50px;
+    line-height: 1.5;
+}
+
+.me{
+    margin: 40px auto;
+    float: left;
+    border-radius: 50%;
+    max-height: 80%;
+    max-width: 25%;
+}
+

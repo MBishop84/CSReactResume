@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.19",
+    "nuka-carousel": "^4.8.4",
+    "react-alice-carousel": "^2.5.1",
+    "react-awesome-slider": "^4.1.0",
+    "react-image-gallery": "^1.2.7",
+    "react-responsive-carousel": "^3.2.22",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
